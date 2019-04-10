@@ -15,4 +15,4 @@ Os algoritmos se encontram nos seguintes diretórios:
   4. Merge Sort: ……. 
   5. Quick Sort: …….. 
 
-Sabe-se que os algoritmos são: *Selection Sort* é **O (n^2)** , *Bubble Sort* é O **(n^2 )**, *Insertion* é **O(n^2)** , *MergeSort* é **O (nlogn)** e *QuickSort* é **O (nlogn)** ;
+Sabe-se que os algoritmos são: *Selection Sort* é **O (n^2)** , *Bubble Sort* é O **(n^2 )**, *Insertion* é **O(n^2)** , *MergeSort* é **O (n log n)** e *QuickSort* é **O (n log n)** ;
